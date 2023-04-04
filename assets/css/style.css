@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url(../font/Inter-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url(../font/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Inter-SemiBold';
+    src: url(../font/Inter-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Sora-Medium';
+    src: url(../font/Sora-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Sora-SemiBold';
+    src: url(../font/Sora-SemiBold.ttf);
+}
+
+#mid-text {
+    font-size: 48px;
+}
+
+#bottom-text {
+    font-size: 26px;
+}
+
+#discount {
+    font-size: 19px;
+}
+
+#discount-text {
+    font-size: 19px;
+}
+
+#past-price {
+    font-size: 32px;
+}
+
+#current-price {
+    font-size: 70px;
+}
+
+#buy-button {
+    font-size: 20px;
+}
+
+#payment-text {
+    font-size: 18px;
+}
+
+
+@media screen and (max-width: 768px) {
+    #mid-text {
+        font-size: 30px;
+    }
+
+    #bottom-text {
+        font-size: 18px;
+    }
+
+    #discount {
+        font-size: 18px;
+    }
+
+    #discount-text {
+        font-size: 16px;
+    }
+
+    #past-price {
+        font-size: 24px;
+    }
+
+    #current-price {
+        font-size: 56px;
+    }
+
+    #buy-button {
+        font-size: 18px;
+    }
+
+    #payment-text {
+        font-size: 14px;
+    }
+}
